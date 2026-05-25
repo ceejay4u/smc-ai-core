@@ -1,0 +1,6 @@
+{
+  "name": "SMC Systems Architect",
+  "description": "An institutional-grade Smart Money Concepts (SMC) live intelligence terminal featuring multi-timeframe matrices, live heatmaps, volatility compression detectors, and entry validation checklist pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
